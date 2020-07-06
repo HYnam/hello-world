@@ -1,2 +1,3 @@
 # hello-world
-Foundation programming
+
+I love programming and I am studying computer science degree course.
